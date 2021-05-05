@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Albert's GitHub stats](https://github-readme-stats.vercel.app/api?username=albertputrapurnama)](https://github.com/albertputrapurnama)
 
 <!--
